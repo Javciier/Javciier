@@ -61,7 +61,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![IntelliJ IDEA](https://img.shields.io/badge/IntelliJ_IDEA-000000.svg?style=for-the-badge&logo=intellij-idea&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-
+<!--
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -73,6 +73,7 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Javciier&layout=compact&theme=radical&hide_border=true" alt="Top Languages" />
   
 </div>
+-->
 
 ## 🎯 Currently
 
